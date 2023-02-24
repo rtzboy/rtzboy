@@ -1,5 +1,13 @@
 # Hi 👋, I'm Jhoseph Poma
 
+
+    _ _                          _
+   (_) |__   ___  ___  ___ _ __ | |__    _ __   ___  _ __ ___   __ _
+   | | '_ \ / _ \/ __|/ _ \ '_ \| '_ \  | '_ \ / _ \| '_ ` _ \ / _` |
+   | | | | | (_) \__ \  __/ |_) | | | | | |_) | (_) | | | | | | (_| |
+  _/ |_| |_|\___/|___/\___| .__/|_| |_| | .__/ \___/|_| |_| |_|\__,_|
+ |__/                     |_|           |_|
+
 I'm a Junior Front-end developer with knowledge in JavaScript, ReactJS, Tailwindcss. I enjoy building websites that are visually appealing and provide a great user experience.
 
 ## Skills
