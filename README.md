@@ -15,6 +15,7 @@ Here are some personal projects I've made:
 - [PassGenerator](https://rtzboy.github.io/pass_gener_jp/) - Generate a random strong password.
 - [TypingTest](https://typingtestjpdev.netlify.app/) -Put your keyboard skills to the test, replicating the random quotes generated in the shortest possible time.
 - [SuperHero](https://super-hero-woad.vercel.app/) - Find all superheroes from both the comic universe (DC, Marvel).
+- [Weather](https://weatherjpdev.netlify.app/) - Display the current weather conditions and 5-day forecast for a specific location.
 
 ## Education
 
