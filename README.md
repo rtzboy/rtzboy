@@ -27,4 +27,4 @@ Bachelor of Informatics Engineering [UNJFSC](https://unjfsc.edu.pe/).
 - [Facebook](https://www.facebook.com/joseph.22.12/)
 - [Instagram](https://www.instagram.com/jhoseph2212/)
 
-Or feel free to send me a message [japoma_200@hotmail.com] 
+Or feel free to send me a message japoma_200@hotmail.com 
