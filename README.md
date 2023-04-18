@@ -4,6 +4,8 @@ I'm a Junior Front-end developer with knowledge in JavaScript, ReactJS, Tailwind
 
 ## Skills
 
+- HTML
+- CSS
 - JavaScript
 - ReactJS
 - Tailwind CSS
@@ -16,6 +18,7 @@ Here are some personal projects I've made:
 - [TypingTest](https://typingtestjpdev.netlify.app/) -Put your keyboard skills to the test, replicating the random quotes generated in the shortest possible time.
 - [SuperHero](https://super-hero-woad.vercel.app/) - Find all superheroes from both the comic universe (DC, Marvel).
 - [Weather](https://weatherjpdev.netlify.app/) - Display the current weather conditions and 5-day forecast for a specific location.
+- [TodoList](https://todolistjpdev.netlify.app/) - A simple TodoList allows you to add, edit, and delete tasks, as well as drag and drop tasks to rearrange their order.
 
 ## Education
 
