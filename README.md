@@ -19,6 +19,7 @@ Here are some personal projects I've made:
 - [SuperHero](https://super-hero-woad.vercel.app/) - Find all superheroes from both the comic universe (DC, Marvel).
 - [Weather](https://weatherjpdev.netlify.app/) - Display the current weather conditions and 5-day forecast for a specific location.
 - [TodoList](https://todolistjpdev.netlify.app/) - A simple TodoList allows you to add, edit, and delete tasks, as well as drag and drop tasks to rearrange their order.
+- [FoodRecipes](https://platexplorerjpdev.netlify.app/) - Allows users to search for recipes from multiple websites.
 
 ## Education
 
