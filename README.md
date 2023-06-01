@@ -9,6 +9,7 @@ I'm a Junior Front-end developer with knowledge in JavaScript, ReactJS, Tailwind
 - JavaScript
 - ReactJS
 - Tailwind CSS
+- MongoDB
 
 ## Projects
 
