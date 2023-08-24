@@ -22,12 +22,6 @@ I'm a web developer seeking an internship opportunity. I enjoy building websites
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## :fire: Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rtzboy&theme=react&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtzboy&theme=react&hide_border=true)](https://github.com/rtzboy/github-readme-stats)
-
 ## :computer: Projects
 
 Some personal projects I've made:
@@ -38,6 +32,11 @@ Some personal projects I've made:
 - [Weather](https://weatherjpdev.netlify.app/) - Display the current weather conditions and 5-day forecast for a specific location.
 - [TodoList](https://todolistjpdev.netlify.app/) - A simple TodoList allows you to add, edit, and delete tasks, as well as drag and drop tasks to rearrange their order.
 - [FoodRecipes](https://platexplorerjpdev.netlify.app/) - Allows users to search for recipes from multiple websites.
+## :fire: Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rtzboy&theme=react&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtzboy&theme=react&hide_border=true)](https://github.com/rtzboy/github-readme-stats)
 
 ## Education
 
