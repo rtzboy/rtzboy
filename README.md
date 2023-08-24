@@ -32,6 +32,8 @@ Some personal projects I've made:
 - [Weather](https://weatherjpdev.netlify.app/) - Display the current weather conditions and 5-day forecast for a specific location.
 - [TodoList](https://todolistjpdev.netlify.app/) - A simple TodoList allows you to add, edit, and delete tasks, as well as drag and drop tasks to rearrange their order.
 - [FoodRecipes](https://platexplorerjpdev.netlify.app/) - Allows users to search for recipes from multiple websites.
+- [SocialSphere](https://sphereback.vercel.app/home) - Simple social web when user can create post and share with their followers.
+
 ## :fire: Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rtzboy&theme=react&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500)](https://git.io/streak-stats)
