@@ -4,7 +4,7 @@
   <img src="https://i.ibb.co/VS5gQVN/edited.gif" width="150"/>
 </div>
 
-I'm a web developer seeking an internship opportunity. I enjoy building websites that are visually appealing and provide a great user experience.
+Soy desarrollador web en busca de su primer empleo laboral. Disfruto crear sitios web que sean visualmente atractivos y brinden una excelente experiencia de usuario. 
 <br/>
 ## :hammer_and_wrench: Languages and Tools
 
