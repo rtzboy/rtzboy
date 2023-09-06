@@ -29,9 +29,9 @@ Some personal projects I've made:
 - [PassGenerator](https://rtzboy.github.io/pass_gener_jp/) - Generate a random strong password.
 - [TypingTest](https://typingtestjpdev.netlify.app/) -Put your keyboard skills to the test, replicating the random quotes generated in the shortest possible time.
 - [SuperHero](https://super-hero-woad.vercel.app/) - Find all superheroes from both the comic universe (DC, Marvel).
-- [Weather](https://weatherjpdev.netlify.app/) - Display the current weather conditions and 5-day forecast for a specific location.
 - [TodoList](https://todolistjpdev.netlify.app/) - A simple TodoList allows you to add, edit, and delete tasks, as well as drag and drop tasks to rearrange their order.
 - [FoodRecipes](https://platexplorerjpdev.netlify.app/) - Allows users to search for recipes from multiple websites.
+- [Weather](https://weatherjpdev.netlify.app/) - Display the current weather conditions and 5-day forecast for a specific location.
 - [SocialSphere](https://sphereback.vercel.app/home) - Simple social web when user can create post and share with their followers.
 
 ## :fire: Stats
